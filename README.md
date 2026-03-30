@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Prem Darji
 
-<!--
-**premdarji1903/premdarji1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Associate Software Engineer | Backend Specialist
 
-Here are some ideas to get you started:
+💡 I build scalable backend systems using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Node.js, NestJS
+* MongoDB, Couchbase
+* Kafka (Event-Driven Architecture)
+* Microservices & Distributed Systems
+
+---
+
+## 🔥 What I'm Working On
+
+* Event-driven architecture with Kafka
+* gRPC microservices using NestJS
+* Scalable backend system design
+
+---
+
+## 🚀 Featured Projects
+
+### 🧩 Distributed Order System
+
+* Event-driven microservices using Kafka
+* Scalable and fault-tolerant architecture
+
+### ⚡ Real-Time Notification System
+
+* Kafka-based async processing
+* High throughput handling
+
+---
+
+## 🛠 Tech Stack
+
+* Backend: Node.js, NestJS
+* Databases: MongoDB, Couchbase
+* Messaging: Kafka
+* DevOps: Docker, Kubernetes
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (Add your link here)
+
+---
+
+🔥 Passionate about solving real-world backend scaling problems
