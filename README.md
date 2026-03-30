@@ -44,7 +44,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (Add your link here)
+* LinkedIn: https://www.linkedin.com/in/prem-darji-216017216
 
 ---
 
